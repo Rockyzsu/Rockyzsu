@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rockyzsu&include_all_commits=true&count_private-true&custom_title=Rockyzsu'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockyzsu">
 
-### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![Data analysis](https://img.shields.io/badge/-pandas-192133?style=flat-square&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)

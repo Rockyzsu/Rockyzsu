@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockyzsu">
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/-Go-192133?style=flat-square&logo=go&logoColor=white)
 ![Data analysis](https://img.shields.io/badge/-pandas-192133?style=flat-square&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-192133?style=flat-square&logo=mysql&logoColor=white)
